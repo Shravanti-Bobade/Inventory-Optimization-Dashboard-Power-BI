@@ -8,7 +8,7 @@ An interactive Power BI dashboard built on the DataCo Smart Supply Chain dataset
 
 ## Dashboard Preview
 
-![Inventory Optimization Dashboard](https://raw.githubusercontent.com/yourusername/inventory-optimization-powerbi/main/dashboard-preview.png)
+![Inventory Optimization Dashboard](dashboard-preview.png)
 
 ---
 
